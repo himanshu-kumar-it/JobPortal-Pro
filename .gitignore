@@ -1,0 +1,14 @@
+# Java / Maven
+jobportal-backend/target/
+*.class
+
+# Node / Vite
+jobportal-frontend/node_modules/
+jobportal-frontend/dist/
+jobportal-frontend/.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
